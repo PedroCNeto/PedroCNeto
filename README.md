@@ -27,7 +27,7 @@
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroCNeto&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroCNeto&theme=radical&show_icons=true&bg_color=00000000)
 
 <!--
 **PedroCNeto/PedroCNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
