@@ -1,7 +1,7 @@
 # Bem-vindo ao meu perfil ! / Welcome to my profile #
 
-### Sobre mim - Atualmente curso análise e desenvolvimento de sistemas (ADS), não tenho experiência profissional até o momento, mas sou apaixonado pela área.
-### About me - I am currently studying systems analysis and development (ADS), I have no professional experience so far, but I am passionate about the area.      
+### Sobre mim - Atualmente curso análise e desenvolvimento de sistemas (TADS), não tenho experiência profissional até o momento, mas sou apaixonado pela área.
+### About me - I am currently studying systems analysis and development (TADS), I have no professional experience so far, but I am passionate about the area.      
   
 
 
