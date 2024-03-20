@@ -1,8 +1,7 @@
 # Bem-vindo ao meu perfil ! / Welcome to my profile #
 
-### Sobre mim - Atualmente curso análise e desenvolvimento de sistemas (TADS), atuo no momento com desenvolvedor fullstack com PHP, MYSql e tecnologias de Front-End.
-### About me - I am currently studying systems analysis and development (TADS), I currently work as a fullstack developer with PHP, MYSql and Front-End technologies.  
-
+### Sobre mim - Atualmente curso análise e desenvolvimento de sistemas (TADS), atuo no momento com desenvolvedor fullstack com PHP, MYSql e tecnologias de Front-End em um projeto de iniciação científica do IFES - Campus de Alegre.
+### About me - I am currently studying systems analysis and development (TADS), I currently work as a fullstack developer with PHP, MYSql and Front-End technologies in a scientific initiation project at IFES - Campus de Alegre
 > ##### Linguagens de programação conhecidas/ known programming Languages    
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
