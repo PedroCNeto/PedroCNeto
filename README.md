@@ -1,8 +1,9 @@
 # Bem-vindo ao meu perfil ! / Welcome to my profile #
 
-### Sobre mim - Atualmente curso análise e desenvolvimento de sistemas (TADS), atuo no momento com desenvolvedor fullstack com PHP, MYSql e tecnologias de Front-End em um projeto de iniciação científica do IFES - Campus de Alegre.
-### About me - I am currently studying systems analysis and development (TADS), I currently work as a fullstack developer with PHP, MYSql and Front-End technologies in a scientific initiation project at IFES - Campus de Alegre
-> ##### Linguagens de programação conhecidas/ known programming Languages    
+### Sobre mim - Analista de sistemas formado pelo Instituto Federal do Espírito Santo, programador e desenvolvedor de jogos e aplicativos FullStack.
+### About me - Systems analyst graduated from the Federal Institute of Espírito Santo, programmer and developer of FullStack games and applications.
+
+##### Linguagens de programação conhecidas/ known programming Languages    
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -13,10 +14,10 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![mySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 > ##### Linguagens que estou/vou aprender/ Languages ​​I am/will learn    
 
-![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![.net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
